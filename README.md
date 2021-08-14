@@ -13,3 +13,9 @@ Tecnologia e Patterns utilizados:
 
 - Java/Spring - Backend!.
 - Cassandra.
+
+Documentação Cassandra
+https://cassandra.apache.org/doc/latest
+
+Spring Data Cassandra
+https://docs.spring.io/spring-data/cassandra/docs/current/reference/html
