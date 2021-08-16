@@ -26,6 +26,7 @@ Utilizar cassandra para trabalhar com agregacoes e ter em apenas uma consulta to
 
 COMANDOS - TESTE
 
+```sh
 describe keyspaces
 
 CREATE KEYSPACE testdb WITH replication = {'class': 'SimpleStrategy', 'replication_factor' : 1};
@@ -48,3 +49,4 @@ CREATE CUSTOM INDEX body_idx ON post (body) USING 'org.apache.cassandra.index.sa
 
 SELECT * FROM post WHERE body LIKE '%MORNING%';
 
+```
