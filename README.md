@@ -7,6 +7,10 @@
 - Busca de produtos por texto na descrição
 - Buscar todos detalhes de um produto inclusive suas propriedades
 
+## Diagrama
+
+![CASSANDRA SYSTEM](https://user-images.githubusercontent.com/12695598/129626658-895e5270-2a29-4aae-b482-6698be75a22b.PNG)
+
 ## Tech
 
 Tecnologia e Patterns utilizados:
